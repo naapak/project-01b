@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6, p, a, li { color: white; font-family: Raleway; font-size
 .banner {
 	min-height: 40vh;
 	max-width: 100%;
-	background: linear-gradient(rgba(0,0,0,0.2) 100%,transparent), url("/Users/nareshakkarapaka/Documents/Red Academy/project-01b/assets/images/banner-girl.png") center bottom no-repeat, url("/Users/nareshakkarapaka/Documents/Red Academy/project-01b/assets/images/flower-bkgd.jpg");
+	background: linear-gradient(rgba(0,0,0,0.2) 100%,transparent), url("assets/images/banner-girl.png") center bottom no-repeat, url("assets/images/flower-bkgd.jpg");
 	background-size: cover, auto 90%, cover;
 	background-image: no-repeat, no-repeat, no-repeat;
 	display: flex;
@@ -129,7 +129,7 @@ h1, h2, h3, h4, h5, h6, p, a, li { color: white; font-family: Raleway; font-size
 
 .signup p {font-size: 13px;}
 .signup	{ 	
-	background: linear-gradient(rgba(0,0,0,0.2) 100%, transparent), url("/Users/nareshakkarapaka/Documents/Red Academy/project-01b/assets/images/wave-bkgd.jpg");
+	background: linear-gradient(rgba(0,0,0,0.2) 100%, transparent), url("assets/images/wave-bkgd.jpg");
 	background-repeat: no-repeat; 
  	background-position: right bottom;
  	padding-top: 50px;
